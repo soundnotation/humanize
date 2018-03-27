@@ -7,7 +7,7 @@ module Humanize
       :undefined => 'undefiniert',
       :negative => 'negativ',
       :zero => 'null',
-      :point => 'Punkt',
+      :point => 'Komma',
       :and => 'und',
       :comma => ''
     },
